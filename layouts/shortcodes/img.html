@@ -1,0 +1,5 @@
+{{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
+{{ with $original }}
+{{ $image := .Resize "600x" }} 
+<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="">
+{{ end }}
