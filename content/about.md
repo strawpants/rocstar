@@ -15,4 +15,4 @@ Changes in the ocean heat are strongly linked to the heat flux at the ocean-atmo
 4. identify ocean heat hotspots and study their link to the terrestrial water cycle in Southeast Asia     
 
 ROCSTAR will be positioned within SPP1189’s focus point WPA (Origin of Regional Sea level changes). The project aggregates global observations and dedicated case studies in the Indian Ocean and West Pacific, the primary sources for moisture and cyclone and Typhoon development for the southeast Asian region, will be pursued. Furthermore, ROCSTAR will actively participate in outreach activities of the [SPP](https://www.spp-sealevel.de/index.php?id=3130) and develop a conceptual board game to explain the regional sea level budget to non-scientists.
-{{< figure src="/images/SPP_sealevel.PNG" height="200px" link="https://www.spp-sealevel.de/index.php?id=3130" >}}
+{{< figure src="/images/SPP_sealevel.png" link="https://www.spp-sealevel.de/index.php?id=3130" >}}
