@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://rocstar.wobbly.earth/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://rocstar.wobbly.earth/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://rocstar.wobbly.earth/contact/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/news/</loc>
+    <loc>https://rocstar.wobbly.earth/news/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://rocstar.wobbly.earth/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://rocstar.wobbly.earth/tags/</loc>
   </url>
   
 </urlset>
