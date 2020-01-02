@@ -7,6 +7,3 @@ type: page
 menu: main
 
 ---
-
-
-This is an example
