@@ -16,3 +16,6 @@ publishDir = "docs"
   gitlab = ""
   linkedin = ""
   mastodon = ""
+[[resources]]
+  name = "sandysteps"
+  src = "resources/images/sandysteps_orig.jpg"

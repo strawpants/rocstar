@@ -4,6 +4,11 @@ featured_image: ""
 omit_header_text: true
 description: Posts
 type: page
-menu: main
+menu: 
+    main:
+        weight: 1
 
 ---
+
+
+test

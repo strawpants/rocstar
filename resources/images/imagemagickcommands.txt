@@ -1,0 +1,2 @@
+#convert the image to a web friendly version
+convert sandysteps_orig.jpg -rotate 95 -resize 2000 -crop 1500x500+300+750 -quality 75 -strip sandysteps.jpg

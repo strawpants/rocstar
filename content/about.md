@@ -4,7 +4,9 @@ featured_image: ""
 omit_header_text: true
 description: "project discription"
 type: page
-menu: main
+menu: 
+    main:
+        weight: 8
 
 ---
 Changes in the ocean heat are strongly linked to the heat flux at the ocean-atmosphere boundary and therefore play a major role in modulating the Earth’s climate. However, significant uncertainties still exist in in-situ derived estimates and certain regions of the ocean are still poorly sampled. **ROCSTAR, will provide new insights in the Earth’s energy budget by improving oceanic temperature (T) and salinity (S) estimates.** This is accomplished by combining space geodetic data together with Argo profiles, solving for temperature, salinity and regionally varying sea level contributions simultaneously. The resulting estimates cover the entire ocean column and the associated steric changes will be consistent with both observed ocean bottom pressure and sea level anomalies. In light of this, the project aims to: 
