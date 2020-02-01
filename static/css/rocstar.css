@@ -1,0 +1,13 @@
+/*Custom css rules for the rocstar website*/
+
+.noto {
+ font-family:Noto Sans,sans-serif
+}
+
+.grow :hover{
+   transform:scale(1.05);
+}
+
+footer .hover-white {
+   fill: CurrentColor;
+}

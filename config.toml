@@ -5,6 +5,9 @@ theme = "ananke"
 publishDir = "docs"
 
 [params]
+  body_classes = "noto bg-near-white"
+  custom_css = ["css/rocstar.css"]
+  background_color_class= "bg-near-black"
   favicon = ""
   description = ""
   facebook = ""
