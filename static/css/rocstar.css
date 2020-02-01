@@ -11,3 +11,8 @@
 footer .hover-white {
    fill: CurrentColor;
 }
+
+
+.bottom-0 {
+   position:  fixed;
+}

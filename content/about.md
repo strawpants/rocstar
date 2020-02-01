@@ -1,6 +1,7 @@
 ---
 title: "About"
-featured_image: ""
+featured_image: "images/sandysteps.jpg"
+feat_image_credit: "Makan Karegar"
 omit_header_text: true
 description: "project discription"
 type: page
@@ -20,4 +21,4 @@ ROCSTAR will be positioned within SPP1189’s focus point WPA (Origin of Regiona
 
 ROCSTAR is part of the Priority Program (SPP-1889) ‘Regional Sea Level Change and Society (SeaLevel)’, funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, [DFG](https://www.dfg.de/)). Apart from ROCSTAR, 19 other projects from 23 German research institutions are involved in the sea level priority program. The total duration of ROCSTAR is 36 month, beginning May 1, 2019. 
 
-{{< figure src="/images/SPP_sealevel.png" link="https://www.spp-sealevel.de/index.php?id=3130" height="100px" width="200px" >}}
+{{< figure src="/images/SPP_sealevel.png" link="https://www.spp-sealevel.de/index.php?id=3130">}}

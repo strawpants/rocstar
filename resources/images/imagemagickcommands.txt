@@ -1,2 +1,5 @@
 #convert the image to a web friendly version
 convert sandysteps_orig.jpg -rotate 95 -resize 2000 -crop 1500x500+300+750 -quality 75 -strip sandysteps.jpg
+
+#reduce the image size of a png by reducing the amount of colors
+convert ../../resources/images/SPP_sealevel_web_hr.png -resize \%20 -colors 255 -strip SPP_sealevel.png
