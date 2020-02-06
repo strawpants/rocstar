@@ -11,20 +11,41 @@
     
     
     <item>
-      <title>About</title>
-      <link>https://rocstar.wobbly.earth/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rocstar.wobbly.earth/about/</guid>
-      <description>Changes in the ocean heat are strongly linked to the heat flux at the ocean-atmosphere boundary and therefore play a major role in modulating the Earth’s climate. However, significant uncertainties still exist in in-situ derived estimates and certain regions of the ocean are still poorly sampled. ROCSTAR, will provide new insights in the Earth’s energy budget by improving oceanic temperature (T) and salinity (S) estimates. This is accomplished by combining space geodetic data together with Argo profiles, solving for temperature, salinity and regionally varying sea level contributions simultaneously.</description>
-    </item>
-    
-    <item>
       <title>Downloads</title>
       <link>https://rocstar.wobbly.earth/download/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rocstar.wobbly.earth/download/</guid>
+      <description>Poster SPP &amp;ldquo;Sea Level&amp;rdquo; Colloquium Feb 2020</description>
+    </item>
+    
+    <item>
+      <title>EGU 2020</title>
+      <link>https://rocstar.wobbly.earth/events/200503_egu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rocstar.wobbly.earth/events/200503_egu/</guid>
+      <description>Topic: Consistency of observed sea surface height changes, bottom pressure changes and temperature, salinity variations in a South Atlantic transect of the Antarctic Circumpolar Current
+Session OS4.1: Open session on ocean processes and techniques
+Vienna, Austria
+3-8 May 2020</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://rocstar.wobbly.earth/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rocstar.wobbly.earth/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://rocstar.wobbly.earth/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rocstar.wobbly.earth/events/</guid>
       <description></description>
     </item>
     
@@ -34,7 +55,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rocstar.wobbly.earth/posts/</guid>
-      <description>test</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPP &#34;Sea Level&#34; Colloquium</title>
+      <link>https://rocstar.wobbly.earth/events/200206_spp_meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rocstar.wobbly.earth/events/200206_spp_meeting/</guid>
+      <description>Bonn, Germany
+10-13 February 2020</description>
     </item>
     
   </channel>
