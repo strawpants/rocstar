@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rocstar.wobbly.earth/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://rocstar.wobbly.earth/categories/</loc>
   </url>
   
@@ -12,10 +16,6 @@
   
   <url>
     <loc>https://rocstar.wobbly.earth/events/200503_egu/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rocstar.wobbly.earth/about/</loc>
   </url>
   
   <url>
