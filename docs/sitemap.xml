@@ -15,18 +15,6 @@
   </url>
   
   <url>
-    <loc>https://rocstar.wobbly.earth/events/200503_egu/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rocstar.wobbly.earth/events/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rocstar.wobbly.earth/events/</loc>
-  </url>
-  
-  <url>
     <loc>https://rocstar.wobbly.earth/posts/</loc>
   </url>
   
@@ -39,11 +27,15 @@
   </url>
   
   <url>
-    <loc>https://rocstar.wobbly.earth/events/200206_spp_meeting/</loc>
+    <loc>https://rocstar.wobbly.earth/posts/200206_spp_meeting/</loc>
   </url>
   
   <url>
     <loc>https://rocstar.wobbly.earth/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rocstar.wobbly.earth/posts/200503_egu/</loc>
   </url>
   
 </urlset>
