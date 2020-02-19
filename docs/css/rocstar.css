@@ -20,6 +20,12 @@ footer .hover-white {
 
 /* RR: append css for foundations icons*/
 
+.img-iconwidth {
+	max-width:172px;
+	text-align: center;
+	margin: 0px 15px 15px 6px;
+}
+
 /* 
  * Foundation Icons v 3.0
  * Made by ZURB 2013 http://zurb.com/playground/foundation-icon-fonts-3
