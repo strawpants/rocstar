@@ -13,6 +13,6 @@ It symbolizes our goal to study the ocean heat content, with the bright orange s
 
 ![](/images/rocstarlogov2.png)
 
-{{< figure src="/images/icon_96.png" class="img-iconwidth">}}
+{{< figure src="/images/rocstarlogo_orange.svg" class="img-iconwidth">}}
 
 
