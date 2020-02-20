@@ -17,6 +17,16 @@ footer .hover-white {
    position:  fixed;
 }
 
+footer svg {
+  fill:currentcolor;
+  height:inherit;
+}
+
+/*Add some rocstar orange*/
+.rocorange{
+  color:rgb(243,119,38);
+}
+
 
 /* RR: append css for foundations icons*/
 

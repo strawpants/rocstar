@@ -1,7 +1,7 @@
 <footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 h1 b no-underline silver dn dib-ns v-mid" href="{{ .Site.BaseURL }}" >
-    <img class="h2 v-mid pa1" align="middle" src="/images/rocstar_silver.png">&copy; {{ now.Format "2006" }}
+  <div class="flex justify-between v-mid">
+  <a class="f4 b no-underline hover-white silver dn dib-ns" href="{{ .Site.BaseURL }}" >
+    <p class="ma0" >&copy; {{ now.Format "2006" }} {{ .Site.Title }}</p>
   </a>
     <div>{{ partial "social-follow.html" . }}</div>
   </div>
