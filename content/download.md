@@ -9,5 +9,8 @@ menu:
         weight: 10
 ---
 
+
+[EGU 2020 presentation](https://presentations.copernicus.org/EGU2020/EGU2020-3546_presentation.pdf)
+
 [Poster SPP "Sea Level" Colloquium Feb 2020](/data/poster_SPP022020_yakhontova.pdf)
 

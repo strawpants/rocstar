@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rocstar.wobbly.earth/posts/</loc>
+    <lastmod>2002-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rocstar.wobbly.earth/</loc>
+    <lastmod>2002-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rocstar.wobbly.earth/posts/200505_egu/</loc>
+    <lastmod>2002-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rocstar.wobbly.earth/about/</loc>
   </url>
   
@@ -20,14 +35,6 @@
   
   <url>
     <loc>https://rocstar.wobbly.earth/posts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rocstar.wobbly.earth/posts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rocstar.wobbly.earth/</loc>
   </url>
   
   <url>

@@ -6,9 +6,20 @@
     <description>Recent content on ROCSTAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 05 May 2002 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rocstar.wobbly.earth/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Share EGU 2020</title>
+      <link>https://rocstar.wobbly.earth/posts/200505_egu/</link>
+      <pubDate>Sun, 05 May 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://rocstar.wobbly.earth/posts/200505_egu/</guid>
+      <description>The EGU 2020 experience turns out to be different as expected and everything is now happening online, due to the Covid situation. This means that Alisa Yakhontova is now sharing her first results through the live chat in session OS4.1. You can find her presentation here
+Topic: Consistency of observed sea surface height changes, bottom pressure changes and temperature, salinity variations in a South Atlantic transect of the Antarctic Circumpolar Current.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -25,7 +36,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rocstar.wobbly.earth/download/</guid>
-      <description>Poster SPP &amp;ldquo;Sea Level&amp;rdquo; Colloquium Feb 2020</description>
+      <description>EGU 2020 presentation
+Poster SPP &amp;ldquo;Sea Level&amp;rdquo; Colloquium Feb 2020</description>
     </item>
     
     <item>
